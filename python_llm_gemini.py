@@ -1,5 +1,5 @@
 import streamlit as st
-import google-generativeai as genai
+import google.generativeai as genai
 from gtts import gTTS
 import os
 import pandas as pd
